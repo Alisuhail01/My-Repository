@@ -1,0 +1,4 @@
+this is my sample file fot git
+to check the git data
+all the files and folder places
+
